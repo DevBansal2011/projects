@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int n=1221;
+    int n=121;
     int t=n;
     int rev=0;
     while(t>0)
